@@ -1,0 +1,41 @@
+.for_div_1 {
+    background-color: aqua;
+          z-index: 1;
+          width: 200px;
+          position: absolute;
+          height: 200px;
+          top: 100px;
+          left: 50px;
+}
+
+
+.for_div_2 {
+    background-color: blueviolet;
+          z-index: 3;
+          width: 200px;
+          position: absolute;
+          height: 200px;
+          top: 50px;
+          left: 100px;
+}
+
+.for_div_3 {
+    background-color: rgb(153, 24, 84);
+          z-index: 4;
+          width: 200px;
+          position: absolute;
+          height: 200px;
+          top: 150px;
+          left: 150px;
+}
+
+.for_div_3:hover  {
+    background-color: rgb(231, 19, 19);
+          z-index: 4;
+          width: 200px;
+          position: absolute;
+          height: 400px;
+          width: 400px;
+          top: 150px;
+          left: 150px;
+}
