@@ -1,3 +1,3 @@
-# Web_Programming_Project2
+# Web Programming 
 
 Inplant Training Programs
